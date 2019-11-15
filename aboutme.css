@@ -1,0 +1,24 @@
+aside {
+    padding: 3px;
+    margin: 3px;
+    text-align: left;
+    height: 60px;
+    border: 3px solid black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    background:linear-gradient(-60deg,#ccffff 50%,#ffccff);
+    width: 500px;
+}
+h1{
+    font-size: 1em;
+    border-bottom: 1px solid black;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+ul{
+    font-size: 1em;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    padding: 20px;
+    margin-bottom: 30px;
+}
