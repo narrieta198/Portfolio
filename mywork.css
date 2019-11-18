@@ -42,6 +42,28 @@ p#link2{
     padding: 30px;
     margin-bottom: 20px;
 }
+p#link3{
+    position: absolute;
+    top: 0;
+    margin-top: 350px;
+    left: 0;
+    margin-left: 890px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+p#image3{
+    position: absolute;
+    top: 0;
+    margin-top: 200px;
+    left: 0;
+    margin-left: 900px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    padding: 30px;
+    margin-bottom: 20px;
+}
 p#image{
     position: absolute;
     top: 0;
